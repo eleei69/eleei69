@@ -57,37 +57,6 @@ favorite_pokemon:
 
 ---
 
-## 🎮 Favorite Games
-
-<p align="center">
-
-🎮 Pokémon Unite
-🎮 Fortnite
-🎮 Roblox
-🎮 Word of Warcraft
-
-</p>
-
----
-
-## 🎵 Playlist While Coding
-
-* 🎸 One OK Rock
-* 🖤 Deftones
-* 🎤 Placebo
-* 🎶 Guns N' Roses
-* 🎵 Aerosmith
-
----
-
-## 🌸 Aesthetic Corner
-
-<div align="center">
-
-🌙 Umbreon
-☀️ Espeon
-☁️ Cinnamoroll
-🤍 Rei Ayanami
 
 </div>
 
