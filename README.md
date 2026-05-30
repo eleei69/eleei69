@@ -1,16 +1,16 @@
 # 𐙚 · ✨ Hi there! Welcome to my space, I'm Ely 💖 · 𐙚
 
 <div align="center">
-  <img src="https://media.tenor.com/tE2SIs4773gAAAAi/cinnamoroll-sanrio.gif" width="120" alt="Kawaii Cinnamoroll"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="90" height="90" />
 </div>
 
 ---
 
 ### °❀.ೃ࿔* About Me...
 
-* 💻 **Technical Support & Help Desk:** I have **3.5 years of experience** working in the IT industry, troubleshooting tech issues and ensuring everything runs smoothly.
+* 💻 **Technical Support & Help Desk:** I have **3 years of experience** working in the IT industry, troubleshooting tech issues and ensuring everything runs smoothly.
 * 🚀 **My New Adventure:** I'm currently stepping into the wonderful world of programming, learning something new every single day!
-* 🌸 **Interests:** I am passionate about technology, clean interfaces, *cute* aesthetics, and crafting efficient solutions.
+* 🌸 **Interests:** I am passionate about technology, clean interfaces, *soft cute* aesthetics, and crafting efficient solutions.
 
 ---
 
