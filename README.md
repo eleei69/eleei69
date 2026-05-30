@@ -117,7 +117,7 @@ favorite_pokemon:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM1cXBhMWgwMHRyaGI5dDc0Y2RzY3pkNjc4eHF1bXBqbWJhMG9kYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wd5g4pIg3zcO28mwkJ/giphy.gif" width="250">
 
 ### Thanks for visiting my profile! 💖
 
