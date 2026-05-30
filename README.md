@@ -6,7 +6,7 @@
 
 ### ☁️ Technical Support • Help Desk • Nintendo Girl 🎮
 
-*"Turning coffee into automation and bugs into solutions."* ✨
+*"Turning ideas into cute little creations"* ✨
 
 </div>
 
@@ -30,10 +30,6 @@ interests:
   - Anime 🌸
   - Technology 💻
 
-favorite_pokemon:
-  - Lucario 🌙
-  - Espeon ☀️
-  - Mimikyu 👻
 ```
 
 ---
@@ -50,10 +46,10 @@ favorite_pokemon:
 
 ## 🌙 Currently Learning
 
-* ⚙️ Python Automation
+* ⚙️ Python
 * 🔗 REST APIs
-* ☁️ Cloud Technologies
-* 🐧 Linux Administration
+* ☁️ HTML
+* 🐧 CSS
 
 ---
 
