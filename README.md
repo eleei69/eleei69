@@ -10,7 +10,7 @@
 
 * 💻 **Technical Support & Help Desk:** I have **3.5 years of experience** working in the IT industry, troubleshooting tech issues and ensuring everything runs smoothly.
 * 🚀 **My New Adventure:** I'm currently stepping into the wonderful world of programming, learning something new every single day!
-* 🌸 **Interests:** I am passionate about technology, clean interfaces, *kawaii* aesthetics, and crafting efficient solutions.
+* 🌸 **Interests:** I am passionate about technology, clean interfaces, *cute* aesthetics, and crafting efficient solutions.
 
 ---
 
