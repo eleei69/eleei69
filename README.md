@@ -38,7 +38,7 @@ interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,CSS,vscode,html5"/>
 
 </p>
 
@@ -58,15 +58,6 @@ interests:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-</div>
 
 ---
 
