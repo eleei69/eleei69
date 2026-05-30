@@ -2,7 +2,7 @@
 
 # 🌸 Ely ⸜(｡˃ ᵕ ˂ )⸝♡ 🌸
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlhdmVieTNyem5yMDc0ODhlZzJxeWtpNTFkNDIxZWFvbzJtdDdkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKicvKt6iisXS/giphy.gif" width="250">
 
 ### ☁️ Technical Support • Help Desk • Nintendo Girl 🎮
 
