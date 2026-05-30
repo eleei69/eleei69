@@ -78,7 +78,7 @@ favorite_pokemon:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views">
+<img src="https://komarev.com/ghpvc/?username=eleei69&label=Profile+Views">
 
 </p>
 
