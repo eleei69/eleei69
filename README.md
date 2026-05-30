@@ -24,11 +24,17 @@ languages:
   - Korean 🇰🇷
 
 interests:
-  - Pokémon ✨
+  - Music ✨
   - Gaming 🎮
   - Automation ⚙️
-  - Anime 🌸
+  - Anime/Comics 🌸
   - Technology 💻
+
+work experience:
+* 💻 **Technical Support & Help Desk:** I have **3 years of experience** working in the IT industry, troubleshooting tech issues and ensuring everything runs smoothly.
+* 🚀 **My New Adventure:** I'm currently stepping into the wonderful world of programming, learning something new every single day!
+
+---
 
 ```
 
@@ -50,14 +56,6 @@ interests:
 * 🔗 REST APIs
 * ☁️ HTML
 * 🐧 CSS
-
----
-
-
-</div>
-
----
-
 
 ---
 
