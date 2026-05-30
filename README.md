@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250">
 
-### ☁️ Technical Support • Automation Enthusiast • Gamer Girl 🎮
+### ☁️ Technical Support • Help Desk • Nintendo Girl 🎮
 
 *"Turning coffee into automation and bugs into solutions."* ✨
 
@@ -16,7 +16,7 @@
 
 ```yaml
 name: Ely
-nickname: Soul Lee
+nickname: @e.leei
 location: Peru 🇵🇪
 languages:
   - Spanish 🇪🇸
@@ -31,7 +31,7 @@ interests:
   - Technology 💻
 
 favorite_pokemon:
-  - Umbreon 🌙
+  - Lucario 🌙
   - Espeon ☀️
   - Mimikyu 👻
 ```
@@ -64,7 +64,7 @@ favorite_pokemon:
 🎮 Pokémon Unite
 🎮 Fortnite
 🎮 Roblox
-🎮 League of Legends
+🎮 Word of Warcraft
 
 </p>
 
