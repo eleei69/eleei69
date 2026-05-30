@@ -1,33 +1,126 @@
-# 𐙚 · ✨ Hi there! Welcome to my space, I'm Ely 💖 · 𐙚
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="90" height="90" />
+
+# 🌸 Ely ⸜(｡˃ ᵕ ˂ )⸝♡ 🌸
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250">
+
+### ☁️ Technical Support • Automation Enthusiast • Gamer Girl 🎮
+
+*"Turning coffee into automation and bugs into solutions."* ✨
+
 </div>
 
 ---
 
-### °❀.ೃ࿔* About Me...
+## 🌷 About Me
 
-* 💻 **Technical Support & Help Desk:** I have **3 years of experience** working in the IT industry, troubleshooting tech issues and ensuring everything runs smoothly.
-* 🚀 **My New Adventure:** I'm currently stepping into the wonderful world of programming, learning something new every single day!
-* 🌸 **Interests:** I am passionate about technology, clean interfaces, *soft cute* aesthetics, and crafting efficient solutions.
+```yaml
+name: Ely
+nickname: Soul Lee
+location: Peru 🇵🇪
+languages:
+  - Spanish 🇪🇸
+  - English 🇺🇸
+  - Korean 🇰🇷
+
+interests:
+  - Pokémon ✨
+  - Gaming 🎮
+  - Automation ⚙️
+  - Anime 🌸
+  - Technology 💻
+
+favorite_pokemon:
+  - Umbreon 🌙
+  - Espeon ☀️
+  - Mimikyu 👻
+```
 
 ---
 
-### 🎀 .ೃ࿔* Toolkit & Technologies
+## 💻 Tech Stack
 
-<h4 align="left">✨ In my daily IT role:</h4>
+<p align="center">
 
-`✨ Help Desk & Technical Support` `✨ Ticket Resolution` `✨ Troubleshooting` `✨ Customer Success`
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postman"/>
 
-<h4 align="left">🌱 Learning & Coding:</h4>
+</p>
 
-```html
-<!-- HTML5 -->
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML5" />
+---
 
-<!-- CSS3 -->
-<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3" />
+## 🌙 Currently Learning
 
-<!-- Python -->
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
+* ⚙️ Python Automation
+* 🔗 REST APIs
+* ☁️ Cloud Technologies
+* 🐧 Linux Administration
+
+---
+
+## 🎮 Favorite Games
+
+<p align="center">
+
+🎮 Pokémon Unite
+🎮 Fortnite
+🎮 Roblox
+🎮 League of Legends
+
+</p>
+
+---
+
+## 🎵 Playlist While Coding
+
+* 🎸 One OK Rock
+* 🖤 Deftones
+* 🎤 Placebo
+* 🎶 Guns N' Roses
+* 🎵 Aerosmith
+
+---
+
+## 🌸 Aesthetic Corner
+
+<div align="center">
+
+🌙 Umbreon
+☀️ Espeon
+☁️ Cinnamoroll
+🤍 Rei Ayanami
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
+</div>
+
+---
+
+## ✨ Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views">
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="250">
+
+### Thanks for visiting my profile! 💖
+
+*"Keep leveling up, one commit at a time."* 🌸
+
+</div>
