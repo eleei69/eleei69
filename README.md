@@ -38,7 +38,7 @@ interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,CSS,vscode,html5"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,apple,css,vscode,html"/>
 
 </p>
 
